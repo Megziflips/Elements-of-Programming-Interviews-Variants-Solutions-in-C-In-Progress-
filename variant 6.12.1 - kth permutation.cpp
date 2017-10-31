@@ -6,7 +6,7 @@ using namespace std;
 
 vector<int> kth_permutation(vector<int>myVec, int level){
     
-    //base case is 1st permutation
+    //sorted case is 1st permutation
     sort(myVec.begin(), myVec.end());
     while(level > 1){
         int breakpoint = myVec.size() - 2;
