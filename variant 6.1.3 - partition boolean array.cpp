@@ -1,3 +1,11 @@
+/* 
+*********************************************************************************
+    OBJECTIVE: Given an array A of objects with Boolean-valued keys, reorder the 
+    array so that all objects that have the same key appear in the same subarray.
+    Use O(1) additional space and O(|A|) time.
+*********************************************************************************
+*/
+
 #include <iostream>
 #include <string>
 #include <vector>
