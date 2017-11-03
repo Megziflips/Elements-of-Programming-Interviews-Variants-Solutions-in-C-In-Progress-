@@ -1,3 +1,11 @@
+/* 
+*************************************************************************************
+    OBJECTIVE: Given an array, compute the k-th permutation under lexicographic 
+    ordering, starting from the identity permutation, which is the first permutation 
+    in lexicographic ordering
+*************************************************************************************
+*/
+
 #include <iostream>
 #include <vector>
 #include <algorithm>
