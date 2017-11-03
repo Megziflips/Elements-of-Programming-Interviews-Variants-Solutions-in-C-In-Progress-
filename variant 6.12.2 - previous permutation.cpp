@@ -1,3 +1,10 @@
+/* 
+*********************************************************************************
+    OBJECTIVE: Given a permutation p represented as a vector, return the vector 
+    corresponding to the previous permutation of p under lexicographic ordering.
+*********************************************************************************
+*/
+
 #include <iostream>
 #include <vector>
 #include <algorithm>
