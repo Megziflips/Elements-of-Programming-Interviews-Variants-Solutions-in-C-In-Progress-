@@ -1,3 +1,12 @@
+/* 
+************************************************************************************
+    OBJECTIVE: Given an array A of objects with keys that takes one of four values,
+    reorder the array so that all objects that have the same key appear in the same 
+    subarray.
+    Use O(1) additional space and O(|A|) time.
+************************************************************************************
+*/
+
 #include <iostream>
 #include <vector>
 
