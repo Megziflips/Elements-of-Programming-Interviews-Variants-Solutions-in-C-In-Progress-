@@ -1,3 +1,10 @@
+/* 
+*********************************************************************************
+    OBJECTIVE: Given a dimension n, write a program to generate an nxn 2D array
+    which when printed in spiral order outputs the sequence {1,2,3,...d^2}
+*********************************************************************************
+*/
+
 #include <iostream>
 #include <vector>
 
