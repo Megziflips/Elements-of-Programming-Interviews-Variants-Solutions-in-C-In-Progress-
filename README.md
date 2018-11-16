@@ -5,3 +5,5 @@ Feel free to email me suggestions if any of my codes are in error or could be im
 
 email: emiudeh@yahoo.com || udehemeka.edu@gmail.com 
 
+# UPDATE:
+As of April 2018 I put this on pause as I started my graduate studies at Saarbrucken Graduate School of COmputer Science, Germany.
